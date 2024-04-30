@@ -1,0 +1,403 @@
+﻿
+.dxgvControl_Office2003Blue a, .dxgvControl_Office2003Blue a:hover, .dxgvControl_Office2003Blue a:focus {
+    color: #6300d9 !important;
+    font-weight: 600 !important;
+    background: transparent !important;
+    font-size: 13px;
+    padding: 2px 3px !important;
+    text-decoration: none;
+}
+
+.dxgvControl_Office2003Blue, .dxgvDisabled_Office2003Blue {
+    border: 1px solid #c00610;
+    font: inherit !important;
+    background-color: White;
+    color: Black;
+    cursor: default;
+    width: 100% !important;
+}
+
+.dxgvSelectedRow_Office2003Blue {
+    background: #eee none !important;
+}
+
+.dxgvHeader_Office2003Blue {
+    font-weight: 600;
+}
+
+.dxucTextBox_Office2003Blue {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 9px 5px;
+}
+
+.dxtc-link .dx-vam {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.dxeButtonEditButton_Office2003Blue {
+    background: #fff !important;
+    padding: 0px 2px !important;
+    border: #fff !important;
+}
+
+.dxeCalendarSelected_Office2003Blue {
+    color: #fff;
+    background-color: #c00610;
+    border: 1px solid #c00610;
+    padding: 3px;
+}
+
+.dxeButtonEditButtonHover_MaterialCompact, .dxeSpinIncButtonHover_MaterialCompact, .dxeSpinDecButtonHover_MaterialCompact, .dxeSpinLargeIncButtonHover_MaterialCompact, .dxeSpinLargeDecButtonHover_MaterialCompact {
+    background-color: #c00610 !important;
+}
+
+
+.dxeCalendarToday_Office2003Blue {
+    padding: 3px;
+    border: 1px solid #c00610;
+}
+
+.dxtc-activeTab {
+    background: #c00610 !important;
+}
+
+
+    .dxtc-activeTab .dxtc-link, .dxtc-activeTab .dxtc-link:hover, .dxtc-activeTab .dxtc-link:focus {
+        color: #fff !important;
+    }
+
+
+.dxeListBox_Office2003Blue {
+    width: 98% !important;
+}
+
+
+.btn-selection {
+    color: #fff;
+    background: #6faeff !important;
+    border-color: #6faeff !important;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50px !important;
+    padding: 2px 5px !important;
+}
+
+    .btn-selection:hover {
+        color: #fff;
+        background: #6faeff !important;
+        border-color: #6faeff !important;
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 50px !important;
+    }
+
+    .btn-selection:focus, .btn-selection.focus {
+        box-shadow: 0 0 0 0 rgba(88,205,145,0.5);
+    }
+
+.dxeListBox_Office2003Blue {
+    border: none;
+    min-height: 160px;
+    z-index: 1000;
+    position: absolute;
+    box-shadow: 1px 1px 1px #eee;
+    overflow-y: scroll;
+}
+
+
+.dxtcLite_MaterialCompact {
+    color: #666666;
+    font: inherit !important;
+}
+
+    .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-tab, .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-spacer, .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-sbWrapper, .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-sbIndent, .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-sbSpacer {
+        border-bottom: 2px solid #fff !important;
+    }
+
+    .dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer .dxtc-activeTab {
+        border-bottom: 2px solid #fff !important;
+        text-transform: uppercase;
+        font: inherit !important;
+        font-size: 14px !important;
+    }
+
+.dxtc-tab {
+    background: #fff;
+}
+
+
+.dxpc-content table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+
+
+.dxeCalendar_Office2003Blue table td {
+    padding: 4px;
+    border-bottom: 1px solid #ddd;
+}
+
+.dxeListBoxItemHover_Office2003Blue {
+    background-color: #ffd4d4;
+}
+
+
+.dxeListBoxItemSelected_Office2003Blue {
+    color: #000 !important;
+    background-color: #eee !important;
+}
+
+.dxgvGroupPanel_Office2003Blue {
+    padding: 15px 5px 15px 6px !important;
+    white-space: nowrap;
+}
+
+
+.dxgvAdaptiveGroupPanel_Office2003Blue, .dxgvGroupPanel_Office2003Blue {
+    background: #ffd4d4 none !important;
+    border-bottom: 1px solid #f2adad !important;
+}
+
+.dxgvFilterRow_Office2003Blue td.dxgv {
+    border-bottom: 1px solid #fff1f1;
+    border-right: 1px solid #fff1f1;
+    border-top-width: 0;
+    border-left-width: 0;
+    padding: 2px;
+    overflow: hidden;
+}
+
+.dxgvHeader_Office2003Blue {
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 8px 5px 8px !important;
+    border: 1px solid #f2adad !important;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    background: #fff !important;
+    overflow: hidden;
+    font-weight: 600;
+    text-align: left;
+    font-size: 14px;
+}
+
+
+.dxgvEditFormDisplayRow_Office2003Blue td.dxgv, .dxgvDetailCell_Office2003Blue td.dxgv, .dxgvDataRow_Office2003Blue td.dxgv, .dxgvDetailRow_Office2003Blue.dxgvADR td.dxgvAIC {
+    overflow: hidden;
+    border-bottom: 1px solid #f2adad !important;
+    border-right: 1px solid #f2adad !important;
+    border-top-width: 0;
+    border-left-width: 0;
+    padding: 9px 9px 9px;
+    font-size: 13px;
+    /*white-space: nowrap;*/
+}
+
+.dxgvHeader_Office2003Blue td {
+    font-size: 13px !important;
+}
+
+.dxm-hovered {
+    background-color: #c00610 !important;
+}
+
+
+.dxgvFilterRow_Office2003Blue {
+    background: #ddd none !important;
+}
+
+.dxpLite_Office2003Blue .dxp-current {
+    color: #fff !important;
+    background-color: #c00610 !important;
+    padding: 3px 5px !important;
+    text-decoration: none;
+}
+
+.dxeButtonEdit_Office2003Blue {
+    background-color: white !important;
+    font: inherit !important;
+    padding: .375rem .75rem !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    line-height: 1.5;
+    color: #495057 !important;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da !important;
+    border-radius: .25rem;
+}
+
+.dxtlHeader_Office2003Blue, .dxtlControl_Office2003Blue .dxtlHSDC {
+    background: #ccc !important;
+    background-color: rgb(148, 182, 232);
+    padding: 5px;
+}
+
+
+.dxtlControl_Office2003Blue a, .dxtlCommandCell_Office2003Blue a, .dxtlControl_Office2003Blue a:hover, .dxtlCommandCell_Office2003Blue a:hover, .dxtlControl_Office2003Blue a:focus, .dxtlCommandCell_Office2003Blue a:focus {
+    color: #c00610 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
+
+.btncolor {
+    color: #c00610 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
+
+
+.dxbButton_MaterialCompact.dxbDisabled_MaterialCompact {
+    color: #fff !important;
+}
+
+
+.dxtcLite_MaterialCompact.dxtc-top > .dxtc-stripContainer {
+    padding-top: 3px;
+    margin-left: 25px;
+}
+
+.fa-edit {
+    font-size: 18px !important;
+}
+
+.fa-eraser {
+    font-size: 18px !important;
+}
+
+
+.dxbButton_MaterialCompact, .dxbButton_MaterialCompact:hover, .dxbButton_MaterialCompact:focus {
+    color: #fff !important;
+    background-color: #c00610 !important;
+    font-size: 11px;
+    padding: 3px 10px;
+    font: inherit !important;
+}
+
+
+.dxgvFCSD {
+    height: 10px !important;
+}
+
+
+.btn-outline-danger {
+    color: #d92550;
+    border-color: #d92550 !important;
+    background-color: #d92550 !important;
+}
+
+.dxeCalendar_Office2003Blue td.dxMonthGridWithWeekNumbers {
+    padding: 5px 10px 3px 5px !important;
+    cursor: default !important;
+}
+
+
+
+.dxeButtonEdit_Office2003Blue {
+    background-color: white !important;
+    border: 1px solid #ccc !important;
+    font: inherit !important;
+    padding: 10px 7px !important;
+    border-radius: 5px !important;
+}
+
+
+.dxeButtonEdit_Office2003Blue {
+    width: 100%;
+}
+
+input[type="text"].dxeEditAreaSys, input[type="password"].dxeEditAreaSys {
+    margin-top: -3px;
+}
+
+.dxtlNode_Office2003Blue td.dxtl, .dxtlAltNode_Office2003Blue td.dxtl, .dxtlSelectedNode_Office2003Blue td.dxtl, .dxtlFocusedNode_Office2003Blue td.dxtl, .dxtlEditFormDisplayNode_Office2003Blue td.dxtl, .dxtlCommandCell_Office2003Blue {
+    padding: 8px 6px 6px !important;
+    border: 1px solid #f2adad !important;
+    border-top-style: solid;
+    border-right-style: solid;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 13px;
+}
+
+.dxpcLite_Metropolis .dxpc-header, .dxdpLite_Metropolis .dxpc-header {
+    color: #c00610;
+    font-size: 1.66em;
+    white-space: nowrap;
+}
+
+
+.dxeListBoxItem_Office2003Blue {
+    border-bottom: 1px solid #eaeaea;
+    border-left: 1px solid white;
+    border-left-width: 1px;
+    border-right: 1px solid white;
+    padding: 7px 4px 7px 5px;
+    padding-left: 5px;
+    white-space: nowrap;
+    text-align: left;
+    font-size: 13px;
+}
+
+
+
+
+.entryformdata .dxtc-activeTab {
+    background-color: #393939 !important;
+}
+
+.entryformdata .dxtc-link .dx-vam {
+    font-size: 12px !important;
+    font-weight: 500;
+}
+
+
+.entryformdata .dxtc-tab {
+    background-color: #f8f8f8;
+    border: 1px solid #eee;
+}
+
+
+
+
+.entryformdata .dxtcLite_MaterialCompact > .dxtc-stripContainer .dxtc-link {
+    padding: 8px 18px 7px;
+    display: block;
+    height: 100%;
+}
+
+
+
+.dxtcLite_MaterialCompact > .dxtc-content {
+    overflow: visible !important;
+}
+
+
+.dxucBrowseButton_Office2003Blue, .dxucBrowseButton_Office2003Blue:focus, .dxucBrowseButton_Office2003Blue:hover {
+    padding: 6px 9px 5px;
+    border: 1px solid #C00610 !important;
+    background: #C00610 !important;
+    color: #fff !important;
+}
+
+    .dxucBrowseButton_Office2003Blue a {
+        color: #fff !important;
+    }
+
+
+.dxbButton_MaterialCompact.dxbTSys {
+    width: 96px;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    margin-top: 0px !important;
+}
+
+
+.dxmLite_Metropolis .dxm-main.dxmtb {
+    padding: 2px;
+    margin-bottom: 10px;
+}
